@@ -1,6 +1,6 @@
 # EB1a DIY Resource Center
 
-See [why_diy](why_diy) for why doing-it-yourself.
+See [why_diy](why_diy.md) for why doing-it-yourself.
 
 ## Part 1: i-140 Related
 
