@@ -11,6 +11,6 @@ There is no gaurantee of the lawyer's quality.
 You may ended up nearly DIY even after paying thousands of dollars to WG.
 4. You are a weak case (like only 200 citations) and need to dig into yourself in-depth. Only you can dig into yourself because only you know your story.
 5. You are a DIY type of person and there are DIY packages on the Internet. DIY your EB1a will be a great accomplishment.
-6. Leverage your PhD academic training. I have written so many papers, why not write another "long paper" to USCIS?
+6. Leverage your academic training. You have written some papers already, why not write another "long paper" to USCIS?
 7. ChatGPT is amazingly powerful. There are even specialized GPTs just for green card application.
 8. Last but not the least, you save some money. But please don't hesitate to spend money on premium processing if needed.
