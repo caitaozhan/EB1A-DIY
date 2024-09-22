@@ -1,4 +1,4 @@
-# EB1a DIY Resource Center
+# EB1A DIY Resource Center
 
 See [why-diy](why_diy.md) for why doing-it-yourself.
 
@@ -18,6 +18,7 @@ EB1a Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 6. [diy EB1A和NIW 弱case双双通过，报一下dp回馈地里](https://www.1point3acres.com/bbs/thread-1063923-1-1.html)
 7. [超低引用EB1A PP无RFE通过，感恩！！](https://www.1point3acres.com/bbs/thread-991106-1-1.html)
 8. [想让准备eb1没信心的朋友们在我身上找点自信……](https://www.1point3acres.com/bbs/thread-1078702-1-1.html)
+9. [DIY EB1A NSC 直接PP Approval](https://www.1point3acres.com/bbs/thread-908342-1-1.html)
 
 ### RFE
 1. [EB1A被小杀手RFE之后通过，经验分享](https://www.1point3acres.com/bbs/thread-1083651-1-1.html)
