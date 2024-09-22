@@ -9,7 +9,7 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 
 ### Petition Letter
 
-1. [Razvan Marinescu's EB1a sample](https://github.com/razvanmarinescu/EB1A): Probabily the best EB1A sample. Prof. Razvan shared his DIY experience on [Reddit](https://www.reddit.com/r/USCIS/comments/tehtqz/eb1a_gc_received_im_freely_sharing_my_i140/).
+1. [Razvan Marinescu's EB1a sample](https://github.com/razvanmarinescu/EB1A): Great EB1A sample from Prof. Razvan. His [experience](https://www.reddit.com/r/USCIS/comments/tehtqz/eb1a_gc_received_im_freely_sharing_my_i140/).
 2. [I-140 Petition Examples](https://andreychemist.github.io/)
 3. [请问哪里可以下载RedClock前辈的模板](https://www.1point3acres.com/bbs/thread-820679-1-1.html)
 4. [EB1A DIY 三进宫终获批。。自负青年的成长史](https://www.1point3acres.com/bbs/thread-1034887-1-1.html)
