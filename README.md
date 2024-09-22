@@ -28,7 +28,7 @@ EB1a Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 
 ## Part 3: Others
 
-1. [Citation map](https://github.com/ChenLiu-1996/CitationMap): Useful tool by Chen Liu.
+1. [Citation map](https://github.com/ChenLiu-1996/CitationMap): Useful tool to create a citation map.
 2. [Killer IO List](killer_io.md): A list of killer immigration officiers.
 3. [Quickfiling](https://quickfiling.us/): One-step Immigration Petition Platform & Services.
 
