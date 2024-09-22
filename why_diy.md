@@ -2,11 +2,11 @@ Giving Wegreened (WG) thousands of dollars and hope WG will take care of your EB
 But doing-it-yourself (DIY) might actually be better. 
 The reasons include but not limited to the following:
 
-1. You have done your NIW application without EB1a a couple years ago.
+1. You have done your NIW application without EB1A a couple years ago.
 The NIW experience and materials will reduce the need to ask for lawyers during the EB1a application.
-2. Even if you have WG, you are still going to do most (three-forth?) of the real work (e.g. seeking for recommenders and drafting their letters). 
-Also, you will waste a lot of time communicating with WG back and forth. 
-3. You might get paired with bad lawyers who only knows to use templates. 
+2. Even if you have WG, you are still going to do most (three-forth?) of the real work (e.g. seeking for recommenders and drafting their letters).
+Also, you will waste a lot of time communicating with WG back and forth.
+3. You might get paired with bad lawyers who only knows using templates for petition letters. 
 There is no gaurantee of the lawyer's quality. 
 You may ended up nearly DIY even after paying thousands of dollars to WG.
 4. You are a weak case (like only 200 citations) and need to dig into yourself in-depth. Only you can dig into yourself because only you know your story.
