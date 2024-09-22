@@ -27,9 +27,8 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 
 ### RFE
 1. [EB1A被小杀手RFE之后通过，经验分享](https://www.1point3acres.com/bbs/thread-1083651-1-1.html)
-2. [eb1a rfe 后被deny 求助](https://www.1point3acres.com/bbs/thread-1079257-1-1.html)
-3. [分享一些DIY EB-1A RFE后通过的经验和体会](https://www.1point3acres.com/bbs/thread-534012-1-1.html)
-4. [How to Prepare a Successful RFE Response for Your EB1 Extraordinary Ability Application](https://www.greencardapply.com/rfe/request-for-evidence-eb1a.htm)
+2. [分享一些DIY EB-1A RFE后通过的经验和体会](https://www.1point3acres.com/bbs/thread-534012-1-1.html)
+3. [How to Prepare a Successful RFE Response for Your EB1 Extraordinary Ability Application](https://www.greencardapply.com/rfe/request-for-evidence-eb1a.htm)
 
 ## Part 2: i-485 Related
 1. [DIY485 之 Checklist](https://www.1point3acres.com/bbs/thread-1081320-1-1.html)
