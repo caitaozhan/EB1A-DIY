@@ -8,7 +8,7 @@ The NIW experience and materials will reduce the need to ask for lawyers during 
 Also, you will waste a lot of time communicating with WG back and forth.
 3. You might get paired with bad lawyers who only knows using templates for petition letters. 
 There is no gaurantee of the lawyer's quality. 
-You may ended up nearly DIY even after paying thousands of dollars to WG.
+You may end up effectively DIY after paying thousands of dollars to WG.
 4. You are a weak case (like only 200 citations) and need to dig into yourself in-depth. Only you can dig into yourself because only you know your story.
 5. You are a DIY type of person and there are DIY packages on the Internet. DIY your EB1A will be a great accomplishment.
 6. Leverage your academic training. You have written some papers already, why not write another "long paper" to USCIS?
