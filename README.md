@@ -1,4 +1,4 @@
-# EB1A DIY
+# EB1A DIY Collection
 
 See [why-diy](why_diy.md) for why doing-it-yourself.
 
@@ -19,10 +19,17 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 8. [超低引用EB1A PP无RFE通过，感恩！！](https://www.1point3acres.com/bbs/thread-991106-1-1.html)
 9. [想让准备eb1没信心的朋友们在我身上找点自信……](https://www.1point3acres.com/bbs/thread-1078702-1-1.html)
 10. [DIY EB1A NSC 直接PP Approval](https://www.1point3acres.com/bbs/thread-908342-1-1.html)
+11. [DIY申请EB1a（I140）经验分享](https://www.1point3acres.com/bbs/thread-1030238-1-1.html)
+12. [怎么撰写请愿书？](https://gonglue.us/27631)
+13. [美国移民绿卡 EB-1A 申请亲身经验](https://gonglue.us/4991)
+14. [EB1A第三次递交终于无RFE通过及一些可能有用的经验](https://www.1point3acres.com/bbs/thread-981588-1-1.html)
+
 
 ### RFE
 1. [EB1A被小杀手RFE之后通过，经验分享](https://www.1point3acres.com/bbs/thread-1083651-1-1.html)
 2. [eb1a rfe 后被deny 求助](https://www.1point3acres.com/bbs/thread-1079257-1-1.html)
+3. [分享一些DIY EB-1A RFE后通过的经验和体会](https://www.1point3acres.com/bbs/thread-534012-1-1.html)
+4. [How to Prepare a Successful RFE Response for Your EB1 Extraordinary Ability Application](https://www.greencardapply.com/rfe/request-for-evidence-eb1a.htm)
 
 ## Part 2: i-485 Related
 1. [DIY485 之 Checklist](https://www.1point3acres.com/bbs/thread-1081320-1-1.html)
@@ -32,4 +39,5 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 1. [Citation map](https://github.com/ChenLiu-1996/CitationMap): Useful tool to create a citation map.
 2. [Killer IO List](killer_io.md): A list of killer immigration officiers.
 3. [Quickfiling](https://quickfiling.us/): One-step Immigration Petition Platform & Services.
+4. [DIY Package](https://www.greencardapply.com/order.htm)
 
