@@ -2,8 +2,7 @@
 
 See [why-diy](why_diy.md) for why doing-it-yourself.
 
-EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
-](https://github.com/HorizonGreen/EB1A-Guidance/blob/main/EB1A%E6%9D%B0%E5%87%BA%E4%BA%BA%E6%89%8D%E7%BB%BF%E5%8D%A1%E6%8C%87%E5%8D%97-%E5%9C%B0%E5%B9%B3%E7%BA%BF-ver.Oct2023.pdf)
+EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf), [EB1A+NIW绿卡指南_ver.Jan2025](EB1A+NIW绿卡指南_ver.Jan2025.pdf). 
 
 ## Part 1: i-140 Related
 
