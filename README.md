@@ -25,6 +25,8 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 14. [EB1A第三次递交终于无RFE通过及一些可能有用的经验](https://www.1point3acres.com/bbs/thread-981588-1-1.html)
 15. [[eb1a]逆转，极弱case先denied 后转approved](https://www.1point3acres.com/bbs/thread-1097792-1-1.html)
 16. [EB1A DIY PP 通过 低引DIY的总结和感想](https://www.1point3acres.com/bbs/thread-1106919-1-1.html)
+17. [EB1A 三次DIY三次RFE后获批的经验总结](https://www.1point3acres.com/bbs/thread-1120246-1-1.html)
+
 
 ### RFE
 1. [EB1A被小杀手RFE之后通过，经验分享](https://www.1point3acres.com/bbs/thread-1083651-1-1.html)
@@ -45,3 +47,5 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023.pdf
 3. [Quickfiling](https://quickfiling.us/): One-step Immigration Petition Platform & Services.
 4. [DIY Package](https://www.greencardapply.com/order.htm): 100+ dollars packages.
 5. [eb1a过了，但没link到niw的pd，求助](https://www.1point3acres.com/bbs/thread-1094539-1-1.html): About relinking your NIW.
+6. [悲剧了，Eb1a I907被拒，因为金额不正确](https://www.1point3acres.com/bbs/thread-1102741-1-1.html)
+7. [更新Timeline （已爆绿！）：纯国内，室内设计 EB1A TSC PP直批](https://www.1point3acres.com/bbs/thread-1125864-1-1.html)
