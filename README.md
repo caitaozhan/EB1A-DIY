@@ -35,6 +35,8 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 5. [EB1A TSC PP RFE后通过经验（IO 1317）](https://www.1point3acres.com/bbs/thread-797618-1-1.html)
 6. [EB1A 杀手IO RFE 后approve 经验贴XM1452](https://www.1point3acres.com/bbs/thread-1106598-1-1.html)
 
+### NOID
+1. [EB1A在TSC PP 被NOID后Approval (低引用200+)](https://www.1point3acres.com/bbs/thread-1084550-1-1.html)
 
 ## Part 2: i-485 Related
 1. [DIY485 之 Checklist](https://www.1point3acres.com/bbs/thread-1081320-1-1.html)
