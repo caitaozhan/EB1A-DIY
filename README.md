@@ -40,6 +40,8 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 
 ## Part 2: i-485 Related
 1. [DIY485 之 Checklist](https://www.1point3acres.com/bbs/thread-1081320-1-1.html)
+2. [表B到了，表A没到，现在提交的好处有什么？](https://www.1point3acres.com/bbs/thread-1145656-1-1.html)
+3. [表b到了该递交485吗？](https://www.1point3acres.com/bbs/thread-1145572-1-1.html)
 
 ## Part 3: Others
 
