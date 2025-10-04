@@ -25,6 +25,7 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 15. [[eb1a]逆转，极弱case先denied 后转approved](https://www.1point3acres.com/bbs/thread-1097792-1-1.html)
 16. [EB1A DIY PP 通过 低引DIY的总结和感想](https://www.1point3acres.com/bbs/thread-1106919-1-1.html)
 17. [EB1A 三次DIY三次RFE后获批的经验总结](https://www.1point3acres.com/bbs/thread-1120246-1-1.html)
+18. [EB1A DIY 心得，No PP 575天终于Approve](https://www.1point3acres.com/bbs/thread-1148431-1-1.html)
 
 
 ### RFE
