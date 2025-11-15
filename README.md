@@ -48,7 +48,7 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 ## Part 3: Others
 
 1. [Citation map](https://github.com/ChenLiu-1996/CitationMap): Useful tool to create a citation map.
-2. [Killer IO List](https://www.1point3acres.com/bbs/thread-1154072-1-1.html): Killer immigration officers.
+2. [杀手Killer IO](https://www.1point3acres.com/bbs/thread-1154072-1-1.html): Killer immigration officers.
 3. [Quickfiling](https://quickfiling.us/): One-step Immigration Petition Platform & Services.
 4. [DIY Package](https://www.greencardapply.com/order.htm): 100+ dollars packages.
 5. [eb1a过了，但没link到niw的pd，求助](https://www.1point3acres.com/bbs/thread-1094539-1-1.html): About relinking your NIW.
