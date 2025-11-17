@@ -54,3 +54,4 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 5. [eb1a过了，但没link到niw的pd，求助](https://www.1point3acres.com/bbs/thread-1094539-1-1.html): About relinking your NIW.
 6. [悲剧了，Eb1a I907被拒，因为金额不正确](https://www.1point3acres.com/bbs/thread-1102741-1-1.html)
 7. [更新Timeline （已爆绿！）：纯国内，室内设计 EB1A TSC PP直批](https://www.1point3acres.com/bbs/thread-1125864-1-1.html)
+8. [EB1 表b current了，单独485 还是先找好老婆一起485](https://www.1point3acres.com/bbs/thread-1153197-1-1.html)
