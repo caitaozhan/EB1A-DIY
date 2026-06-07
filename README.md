@@ -27,7 +27,6 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 17. [EB1A 三次DIY三次RFE后获批的经验总结](https://www.1point3acres.com/bbs/thread-1120246-1-1.html)
 18. [EB1A DIY 心得，No PP 575天终于Approve](https://www.1point3acres.com/bbs/thread-1148431-1-1.html)
 
-
 ### RFE
 1. [EB1A被小杀手RFE之后通过，经验分享](https://www.1point3acres.com/bbs/thread-1083651-1-1.html)
 2. [分享一些DIY EB-1A RFE后通过的经验和体会](https://www.1point3acres.com/bbs/thread-534012-1-1.html)
@@ -35,18 +34,23 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 4. [弱case DIY EB1A PP RFE response 后通过](https://www.1point3acres.com/bbs/thread-952823-1-1.html)
 5. [EB1A TSC PP RFE后通过经验（IO 1317）](https://www.1point3acres.com/bbs/thread-797618-1-1.html)
 6. [EB1A 杀手IO RFE 后approve 经验贴XM1452](https://www.1point3acres.com/bbs/thread-1106598-1-1.html)
+7. [Eb1aPPRFEApproved](https://www.1point3acres.com/bbs/thread-1178438-1-1.html)
+8. [超低三维eb1arfe后通过](https://www.1point3acres.com/bbs/thread-1176103-1-1.html)
+9. [EB1A三次DIY三次RFE后获批的经验总结](https://www.1point3acres.com/bbs/thread-1120246-1-1.html)
 
 ### NOID
 1. [EB1A在TSC PP 被NOID后Approval (低引用200+)](https://www.1point3acres.com/bbs/thread-1084550-1-1.html)
+
 
 ## Part 2: i-485 Related
 1. [DIY485 之 Checklist](https://www.1point3acres.com/bbs/thread-1081320-1-1.html)
 2. [表B到了，表A没到，现在提交的好处有什么？](https://www.1point3acres.com/bbs/thread-1145656-1-1.html)
 3. [表b到了该递交485吗？](https://www.1point3acres.com/bbs/thread-1145572-1-1.html)
 4. [正在准备diy 485/765/131 checklist，为各位抛砖引玉](https://www.1point3acres.com/bbs/thread-1146152-1-1.html)
+5. [485提交900天后终于被批](https://www.1point3acres.com/bbs/thread-1178344-1-1.html)
+
 
 ## Part 3: Others
-
 1. [Citation map](https://github.com/ChenLiu-1996/CitationMap): Useful tool to create a citation map.
 2. [杀手Killer IO](https://www.1point3acres.com/bbs/thread-1154072-1-1.html): Killer immigration officers.
 3. [Quickfiling](https://quickfiling.us/): One-step Immigration Petition Platform & Services.
