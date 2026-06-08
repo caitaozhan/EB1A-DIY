@@ -34,8 +34,8 @@ EB1A Guidance: [EB1A杰出人才绿卡指南-地平线-ver.Oct2023](EB1A杰出�
 4. [弱case DIY EB1A PP RFE response 后通过](https://www.1point3acres.com/bbs/thread-952823-1-1.html)
 5. [EB1A TSC PP RFE后通过经验（IO 1317）](https://www.1point3acres.com/bbs/thread-797618-1-1.html)
 6. [EB1A 杀手IO RFE 后approve 经验贴XM1452](https://www.1point3acres.com/bbs/thread-1106598-1-1.html)
-7. [Eb1aPPRFEApproved](https://www.1point3acres.com/bbs/thread-1178438-1-1.html)
-8. [超低三维eb1arfe后通过](https://www.1point3acres.com/bbs/thread-1176103-1-1.html)
+7. [Eb1a PP RFE Approved](https://www.1point3acres.com/bbs/thread-1178438-1-1.html)
+8. [超低三维eb1a rfe后通过](https://www.1point3acres.com/bbs/thread-1176103-1-1.html)
 9. [EB1A三次DIY三次RFE后获批的经验总结](https://www.1point3acres.com/bbs/thread-1120246-1-1.html)
 
 ### NOID
